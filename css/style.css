@@ -20,6 +20,10 @@ footer {
     font-weight: 600;
 }
 
+.dragging {
+    opacity: .3;
+}
+
 @media screen and (min-width: 320px) {
     .section-parts, .section-puzzle {
         padding: 1rem;
